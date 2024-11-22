@@ -1,5 +1,5 @@
 Algoritmo CalculoPuntaje
-	           // Programa para calcular el puntaje de un juego.
+	    // Programa para calcular el puntaje de un juego.
 	Definir fichasRojas, fichasAzules, fichasAmarillas, puntaje Como Entero
 	Definir continuar Como Caracter
 	continuar <- 's'
